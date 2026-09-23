@@ -3,3 +3,4 @@ Nhom 03
 24520439-Nguyen Phan Thanh Hai
 
 I am beginning to understand Git
+New text from branch feature
